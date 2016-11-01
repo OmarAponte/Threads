@@ -34,7 +34,7 @@ public class Main extends JFrame implements ActionListener{
 		this.setSize(400,300);
 		this.setLocationRelativeTo(null);
 		this.setLayout(null);
-		this.setTitle("Thread");
+		this.setTitle("Thread omar");
 		label lbl1 =new label("Array length:",20, 20, 100, 20);
 		label lbl2 =new label("Parallel Mode:",20, 50, 100, 20);
 		lbl3 =new label("Results:",20, 100, 360, 100);
